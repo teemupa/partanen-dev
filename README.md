@@ -1,2 +1,2 @@
 # partanen-dev
-Simple home front for [partanen.dev.](https://partanen.dev) using W3.CSS.
+Simple front page for [partanen.dev.](https://partanen.dev) using W3.CSS.
